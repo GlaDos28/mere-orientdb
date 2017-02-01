@@ -1,0 +1,30 @@
+{
+  "name": "mere-orientdb",
+  "version": "0.0.0",
+  "description": "orientDB driver based on orientjs package wrapped with mere package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlaDos28/mere-orientdb.git"
+  },
+  "keywords": [
+    "orientdb",
+    "orientjs",
+    "mere",
+    "database.",
+    "driver"
+  ],
+  "author": "Evgeny Savelyev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GlaDos28/mere-orientdb/issues"
+  },
+  "homepage": "https://github.com/GlaDos28/mere-orientdb#readme",
+  "dependencies": {
+    "mere": "^0.3.3",
+    "orientjs": "^2.2.4"
+  }
+}
